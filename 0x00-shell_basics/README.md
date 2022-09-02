@@ -1,1 +1,1 @@
-a script that creates a directory name
+moving the file betty
